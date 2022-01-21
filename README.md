@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clarkhobbs
+- 👋 Hi, I’m @clarkhobbs a Freshaman at WSU.
 - 👀 I’m interested in improving my CS skills and knowledge.
 - 🌱 I’m currently learning C and C++.
 - 💞️ I’m looking to collaborate on nothing yet I need to make some CS friends first.
